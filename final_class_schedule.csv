@@ -1,0 +1,21 @@
+Section,Course,Session,Professor,Day,Timeslot,Room,Room Size,Class Size
+8,13,1,5,Mon,Slot 1,8,Small,Small
+7,5,2,7,Mon,Slot 1,10,Small,Small
+4,14,1,2,Mon,Slot 1,13,Small,Small
+9,1,2,5,Mon,Slot 2,10,Small,Small
+2,2,1,2,Mon,Slot 2,14,Small,Small
+10,12,1,4,Mon,Slot 5,1,Small,Small
+5,6,2,5,Mon,Slot 6,28,Large,Large
+3,6,1,5,Tue,Slot 3,3,Large,Large
+6,10,1,6,Tue,Slot 4,24,Large,Large
+1,7,1,8,Tue,Slot 4,25,Large,Large
+4,14,2,2,Wed,Slot 1,13,Small,Small
+7,5,1,7,Wed,Slot 3,28,Large,Small
+10,12,2,4,Wed,Slot 5,22,Small,Small
+5,6,1,5,Thu,Slot 1,20,Large,Large
+8,13,2,5,Thu,Slot 3,22,Small,Small
+3,6,2,5,Thu,Slot 5,24,Large,Large
+9,1,1,5,Fri,Slot 1,4,Small,Small
+6,10,2,6,Fri,Slot 2,19,Large,Large
+2,2,2,2,Fri,Slot 4,4,Small,Small
+1,7,2,8,Fri,Slot 5,17,Large,Large
