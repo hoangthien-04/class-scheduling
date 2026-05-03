@@ -13,7 +13,6 @@ Notebook chính tập trung vào phần thực nghiệm:
 ## Files
 
 - `HW3_Topic3_Class_Scheduling_GA.ipynb`: notebook chính, có code, bảng dữ liệu, biểu đồ và kết quả cuối.
-- `notebook_code_only.py`: file Python được xuất từ các code cell trong notebook.
 - `class_scheduling_ga.py`: phiên bản Python tách hàm đầy đủ hơn.
 - `ga_history.csv`: lịch sử chạy GA theo generation.
 - `final_class_schedule.csv`: thời khóa biểu cuối cùng.
