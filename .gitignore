@@ -1,8 +1,0 @@
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-ga_final_outputs/
-ga_parameter_tests/
-
-test_run_ga_parameter_sets.py
-
